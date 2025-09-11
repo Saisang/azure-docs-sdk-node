@@ -114,9 +114,6 @@
     {
       "name": "azure-storage@2.10.3",
       "folder": "./typings/azure-storage"
-    },
-    {
-      "name": "durable-functions@2.1.3"
     }
   ],
   "target_repo": {
