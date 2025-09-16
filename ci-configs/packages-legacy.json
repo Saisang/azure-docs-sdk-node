@@ -19,9 +19,6 @@
       "name": "@azure/arm-iotspaces@1.2.1"
     },
     {
-      "name": "@azure/arm-mediaservices@13.1.0"
-    },
-    {
       "name": "@azure/arm-networkanalytics@1.0.0"
     },
     {
